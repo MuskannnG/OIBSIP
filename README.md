@@ -1,4 +1,4 @@
-*Task 01 (Level 1) : Customer Segmentation Analysis*
+# Task 01 (Level 1) : Customer Segmentation Analysis
 
 # Project Description:
 The aim of this data analytics project is to perform customer segmentation analysis for an ecommerce company. By analyzing customer behavior and purchase patterns, the goal is to
