@@ -1,9 +1,9 @@
 # Task 02 (Level 1) : Data Cleaning
 
-# Description: 
+## Description: 
 Data cleaning is the process of fixing or removing incorrect, corrupted, duplicate, or incomplete data within a dataset. Messy data leads to unreliable outcomes. Cleaning data is an essential part of data analysis, and demonstrating your data cleaning skills is key to landing a job. 
 
-# Key Concepts and Challenges: 
+## Key Concepts and Challenges: 
 1. Data Integrity: Ensuring the accuracy, consistency, and reliability of data throughout the cleaning process. 
 2. Missing Data Handling: Dealing with missing values by either imputing them or making informed decisions on how to handle gaps in the dataset. 
 3. Duplicate Removal: Identifying and eliminating duplicate records to maintain data uniqueness. 
